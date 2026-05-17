@@ -22,3 +22,15 @@ Problems are automatically synced using LeetHub.
 ---
 
 ⭐ Consistency over perfection.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/anushkasaxenaorai-cpu/leetcode-solutions/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/anushkasaxenaorai-cpu/leetcode-solutions/tree/master/0326-power-of-three) |
+<!---LeetCode Topics End-->
