@@ -11,8 +11,7 @@ This repository contains my LeetCode problem-solving journey and coding practice
 ## 💻 Languages Used
 - Python
 - C++
-- Java
-
+- C
 ## 📈 Progress
 Problems are automatically synced using LeetHub.
 
